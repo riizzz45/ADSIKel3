@@ -23,5 +23,5 @@ TM 1-14 MATERI :
 14. Data Flow Diagram (DFD) -> (UAS_TM9_ADSI PRAK_DFD.pdf)
 15. CDM-PDM -> (UAS_TM10_ADSI PRAK_CDM.pdf)
 16. Class Diagram
-17. Wireframe beserta link figmanya
-18. Desain UI beserta link figmanya
+17. Wireframe beserta link figmanya -> (UAS_TM12_ADSI PRAK_WIREFRAME.pdf)
+18. Desain UI beserta link figmanya -> (UAS_TM13_ADSI PRAK_HIGH FIDELITY.pdf)
