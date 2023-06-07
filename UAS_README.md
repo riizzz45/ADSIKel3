@@ -17,11 +17,11 @@ TM 1-14 MATERI :
 8. Daftar siapa saja aktor yang terlibat dan use case-use case yang akan diimplementasikan pada sistem -> (UAS_TM6_ADSI PRAK_USE CASE.pdf)
 9. Use case diagram -> (UAS_TM6_ADSI PRAK_USE CASE.pdf)
 10. Use case scenario -> (UAS_TM6_ADSI PRAK_USE CASE.pdf)
-11. Identifikasi semua input dan output yang terlibat dengan etntitas luar
+11. Identifikasi semua input dan output yang terlibat dengan etntitas luar -> (UAS_TM8_ADSI PRAK HIPO & CONTEXT.pdf)
 12. Konteks diagram -> (UAS_TM8_ADSI PRAK HIPO & CONTEXT.pdf)
 13. Diagram jenjang -> (UAS_TM8_ADSI PRAK HIPO & CONTEXT.pdf)
-14. Data Flow Diagram (DFD)
-15. CDM-PDM
+14. Data Flow Diagram (DFD) -> (UAS_TM9_ADSI PRAK_DFD.pdf)
+15. CDM-PDM -> (UAS_TM10_ADSI PRAK_CDM.pdf)
 16. Class Diagram
 17. Wireframe beserta link figmanya
 18. Desain UI beserta link figmanya
